@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "32de1c19-61ea-400f-bf2b-26fca34a1014",
+		"name": "fogado",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "48359844",
+		"_collection_link": "https://fmmikii-8347022.postman.co/workspace/fogado~bae687a0-1a26-4327-b916-8c19fa1a9781/collection/48359844-32de1c19-61ea-400f-bf2b-26fca34a1014?action=share&source=collection_link&creator=48359844"
+	},
+	"item": [
+		{
+			"name": "szobafoglaltsag",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "hettorpe",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "szobakkihasznaltsag",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
